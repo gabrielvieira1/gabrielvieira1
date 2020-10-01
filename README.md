@@ -1,20 +1,4 @@
 ## 👨🏻‍💻 Gabriel Vieira
-<!--
-**gabrielvieira1/gabrielvieira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
----
 </br>
 
 <p align="left">
@@ -47,7 +31,61 @@ Here are some ideas to get you started:
 Technologies and tools I know:
 
 <p align="center">
-<a href="https://docs.oracle.com/en/java/">
+    </br>
+    <a href="https://git-scm.com/">
+        <img 
+            src="assets/icon-git.svg" 
+            alt="logo git"
+            width="50px">
+    </a>
+    <a href="https://github.com/">
+        <img 
+            src="assets/icon-gitHub2.svg" 
+            alt="logo Github"
+            width="50px">
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img 
+            src="assets/icon-vscode.svg" 
+            alt="logo Vscode"
+            width="50px">
+    </a>
+     <a href="https://www.figma.com/">
+        <img 
+            src="assets/icon-figma.svg" 
+            alt="logo Figma"
+            width="50px">
+    </a>
+     <a href="https://www.linuxfoundation.org/">
+        <img 
+            src="assets/linux-Tux.png" 
+            alt="logo Linux"
+            width="50px">
+    </a>
+    <a href="https://www.gnu.org/software/bash/">
+        <img 
+            src="assets/bash.png" 
+            alt="logo Bash"
+            width="123px">
+    </a>
+</p>
+<p align="center">
+Technologies and tools that I am learning at the moment:
+    <p align="center">
+<a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/">
+        <img 
+            src="assets/icon-springboot.png" 
+            alt="logo Spring-boot"
+            width="50px"
+            style="border-radius: 8px;">
+    </a>
+     <a href="https://www.typescriptlang.org/">
+        <img 
+            src="assets/icon-typescript.png"
+            alt="logo Typescript"
+            width="56px">
+    </a>
+    <a href="https://docs.oracle.com/en/java/">
         <img 
             src="assets/icon-java.png" 
             alt="logo Java"
@@ -103,65 +141,11 @@ Technologies and tools I know:
             width="50px"
             style="border-radius: 8px;">
     </a>
-    </br>
-    <a href="https://git-scm.com/">
-        <img 
-            src="assets/icon-git.svg" 
-            alt="logo git"
-            width="50px">
-    </a>
     <a href="https://www.postgresql.org/">
         <img 
             src="assets/icon-postgresql.svg" 
             alt="logo postgreSQL"
             width="50px">
-    </a>
-    <a href="https://github.com/">
-        <img 
-            src="assets/icon-gitHub2.svg" 
-            alt="logo Github"
-            width="50px">
-    </a>
-    <a href="https://code.visualstudio.com/">
-        <img 
-            src="assets/icon-vscode.svg" 
-            alt="logo Vscode"
-            width="50px">
-    </a>
-</p>
-<p align="center">
-Technologies and tools that I am learning at the moment:
-    <p align="center">
-<a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/">
-        <img 
-            src="assets/icon-springboot.png" 
-            alt="logo Spring-boot"
-            width="50px"
-            style="border-radius: 8px;">
-    </a>
-     <a href="https://www.typescriptlang.org/">
-        <img 
-            src="assets/icon-typescript.png"
-            alt="logo Typescript"
-            width="56px">
-    </a>
-     <a href="https://www.figma.com/">
-        <img 
-            src="assets/icon-figma.svg" 
-            alt="logo Figma"
-            width="50px">
-    </a>
-     <a href="https://www.linuxfoundation.org/">
-        <img 
-            src="assets/linux-Tux.png" 
-            alt="logo Linux"
-            width="50px">
-    </a>
-    <a href="https://www.gnu.org/software/bash/">
-        <img 
-            src="assets/bash.png" 
-            alt="logo Bash"
-            width="123px">
     </a>
     </p>
 </p>
@@ -187,7 +171,8 @@ Technologies and tools that I am learning at the moment:
 #### ⚡ Hobbies
 
 - 📚 Fantasy books;
-- 🎮 RPG games(Paladins);
+- 🎮 Games;
+- 🏃‍♂️ Running;
 - 🎧 Listening to good music;
 - 🎬 Watch Movies and TV Shows;
 - 🧟 Turning nights studying
