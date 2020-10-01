@@ -72,19 +72,6 @@ Technologies and tools I know:
 <p align="center">
 Technologies and tools that I am learning at the moment:
     <p align="center">
-<a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/">
-        <img 
-            src="assets/icon-springboot.png" 
-            alt="logo Spring-boot"
-            width="50px"
-            style="border-radius: 8px;">
-    </a>
-     <a href="https://www.typescriptlang.org/">
-        <img 
-            src="assets/icon-typescript.png"
-            alt="logo Typescript"
-            width="56px">
-    </a>
     <a href="https://docs.oracle.com/en/java/">
         <img 
             src="assets/icon-java.png" 
@@ -92,12 +79,24 @@ Technologies and tools that I am learning at the moment:
             width="50px"
             style="border-radius: 8px;">
     </a>
-    <a href="https://dev.mysql.com/doc/">
+    <a href="https://www.python.org/">
         <img 
-            src="assets/icon-mysql.svg" 
-            alt="logo Mysql"
-            width="80px"
+            src="assets/python.png" 
+            alt="logo Python"
+            width="50px">
+    </a>
+    <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/">
+        <img 
+            src="assets/icon-springboot.png" 
+            alt="logo Spring-boot"
+            width="50px"
             style="border-radius: 8px;">
+    </a>
+    <a href="https://www.djangoproject.com/">
+        <img 
+            src="assets/django.png" 
+            alt="logo Django"
+            width="50px">
     </a>
     <a href="https://www.javascript.com/">
         <img 
@@ -106,17 +105,23 @@ Technologies and tools that I am learning at the moment:
             width="50px"
             style="border-radius: 8px;">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <a href="https://www.typescriptlang.org/">
         <img 
-            src="assets/icon-css3.svg" 
-            alt="logo CSS3"
-            width="50px"
-            style="border-radius: 8px;">
+            src="assets/icon-typescript.png"
+            alt="logo Typescript"
+            width="56px">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img 
             src="assets/icon-html5.svg" 
             alt="logo HTML5"
+            width="50px"
+            style="border-radius: 8px;">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img 
+            src="assets/icon-css3.svg" 
+            alt="logo CSS3"
             width="50px"
             style="border-radius: 8px;">
     </a>
@@ -139,6 +144,13 @@ Technologies and tools that I am learning at the moment:
             src="assets/icon-nodejs.svg" 
             alt="logo Node.js"
             width="50px"
+            style="border-radius: 8px;">
+    </a>
+    <a href="https://dev.mysql.com/doc/">
+        <img 
+            src="assets/icon-mysql.svg" 
+            alt="logo Mysql"
+            width="80px"
             style="border-radius: 8px;">
     </a>
     <a href="https://www.postgresql.org/">
