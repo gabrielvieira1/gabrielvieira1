@@ -21,9 +21,9 @@
 
 ### Oops, everything okay?
 
-<h6 align="left">
+<h4 align="left">
     My name is Gabriel Vieira, I am majoring in Computer Science and I love helping people through technology!
-</h6>
+</h4>
 
 ### 🛠 Technologies
 
