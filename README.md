@@ -98,6 +98,18 @@ Technologies and tools that I am learning at the moment:
             alt="logo Django"
             width="50px">
     </a>
+    <a href="https://www.ruby-lang.org/pt/">
+        <img 
+            src="assets/ruby-logo.png" 
+            alt="logo Django"
+            width="50px">
+    </a>
+    <a href="https://rubyonrails.org/">
+        <img 
+            src="assets/rails-logo.png" 
+            alt="logo Django"
+            width="50px">
+    </a>
     <a href="https://www.javascript.com/">
         <img 
             src="assets/icon-javascript.svg" 
