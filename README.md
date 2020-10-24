@@ -203,4 +203,4 @@ Technologies and tools that I am learning at the moment:
 
 ---
 
-> *"A ciência da computação não é mais sobre computadores, da mesma forma que a astronomia não é mais sobre telescópios."* - E. W. Dijkstra
+> *"Para pessoas como nós não existem coisas como modelos. Somos convocados constantemente a criar nossos modelos."* - Ousmane Sembene
