@@ -79,6 +79,13 @@ Technologies and tools that I am learning at the moment:
             width="50px"
             style="border-radius: 8px;">
     </a>
+    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
+        <img 
+            src="assets/C_Sharp.svg" 
+            alt="logo C#"
+            width="50px"
+            style="border-radius: 8px;">
+    </a>
     <a href="https://www.python.org/">
         <img 
             src="assets/python.png" 
