@@ -1,7 +1,7 @@
-## 👨🏻‍💻 Gabriel Vieira
-</br>
+<h1 color="black" align="center"> #Hi Stranger :alien:🖖 </h1>
+<p align="center" color="grey" size="14px">Welcome to my GitHub! :octocat:</p>
 
-<p align="left">
+<p align="center">
     <a href="https://www.linkedin.com/in/bielvieira/">
         <img 
             alt="Gabriel Vieira" 
@@ -19,187 +19,78 @@
     </a>
 </p>
 
-### Oops, everything okay?
+<h2 align='left'>👨🏻‍💻 #About me:</h2>
+<p align='left' color="grey" font-size="20px">I'm Gabriel Vieira 👨‍🚀, <br/>Beginner backend Developer 💻 <br/> and I love helping people through technology! ❤️.</p>
+<p>
 
-<h4 align="left">
-    My name is Gabriel Vieira, I am majoring in Computer Science and I love helping people through technology!
-</h4>
+---
 
-### 🛠 Technologies
-
-<p align="center">
-Technologies and tools I know:
-
-<p align="center">
-    </br>
-    <a href="https://git-scm.com/">
-        <img 
-            src="assets/icon-git.svg" 
-            alt="logo git"
-            width="50px">
-    </a>
-    <a href="https://github.com/">
-        <img 
-            src="assets/icon-gitHub2.svg" 
-            alt="logo Github"
-            width="50px">
-    </a>
-    <a href="https://code.visualstudio.com/">
-        <img 
-            src="assets/icon-vscode.svg" 
-            alt="logo Vscode"
-            width="50px">
-    </a>
-     <a href="https://www.figma.com/">
-        <img 
-            src="assets/icon-figma.svg" 
-            alt="logo Figma"
-            width="50px">
-    </a>
-     <a href="https://www.linuxfoundation.org/">
-        <img 
-            src="assets/linux-Tux.png" 
-            alt="logo Linux"
-            width="50px">
-    </a>
-    <a href="https://www.gnu.org/software/bash/">
-        <img 
-            src="assets/bash.png" 
-            alt="logo Bash"
-            width="123px">
-    </a>
+<p>
+    <h2 align="rigth"><img  alt="skills"  width="30" height="40" src="assets/skill.svg"></img>#My Skills: </h2>
 </p>
+
 <p align="center">
-Technologies and tools that I am learning at the moment:
-    <p align="center">
     <a href="https://docs.oracle.com/en/java/">
-        <img 
-            src="assets/icon-java.png" 
-            alt="logo Java"
-            width="50px"
-            style="border-radius: 8px;">
-    </a>
-    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
-        <img 
-            src="assets/C_Sharp.svg" 
-            alt="logo C#"
-            width="50px"
-            style="border-radius: 8px;">
-    </a>
-    <a href="https://www.python.org/">
-        <img 
-            src="assets/python.png" 
-            alt="logo Python"
-            width="50px">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
     </a>
     <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/">
-        <img 
-            src="assets/icon-springboot.png" 
-            alt="logo Spring-boot"
-            width="50px"
-            style="border-radius: 8px;">
+    <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    </a>
+    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
+    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-4F0599?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    </a>
+    <a href="https://dotnet.microsoft.com/apps/aspnet">
+    <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-0082c9?style=for-the-badge&logo=.net&logoColor=white"/>
+    </a>
+    <a href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     </a>
     <a href="https://www.djangoproject.com/">
-        <img 
-            src="assets/django.png" 
-            alt="logo Django"
-            width="50px">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
     </a>
     <a href="https://www.ruby-lang.org/pt/">
-        <img 
-            src="assets/ruby-logo.png" 
-            alt="logo Django"
-            width="50px">
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
     </a>
     <a href="https://rubyonrails.org/">
-        <img 
-            src="assets/rails-logo.png" 
-            alt="logo Django"
-            width="50px">
-    </a>
-    <a href="https://www.javascript.com/">
-        <img 
-            src="assets/icon-javascript.svg" 
-            alt="logo JavaScript"
-            width="50px"
-            style="border-radius: 8px;">
-    </a>
-    <a href="https://www.typescriptlang.org/">
-        <img 
-            src="assets/icon-typescript.png"
-            alt="logo Typescript"
-            width="56px">
+    <img alt="RubyOnRails" src="https://img.shields.io/badge/Rubyonrails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img 
-            src="assets/icon-html5.svg" 
-            alt="logo HTML5"
-            width="50px"
-            style="border-radius: 8px;">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img 
-            src="assets/icon-css3.svg" 
-            alt="logo CSS3"
-            width="50px"
-            style="border-radius: 8px;">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    </a>
+    <a href="https://www.javascript.com/">
+    <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    </a>
+    <a href="https://www.typescriptlang.org/">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
     </a>
     <a href="https://reactjs.org/">
-        <img 
-            src="assets/icon-react.svg"
-            alt="logo React"
-            width="50px"
-            style="border-radius: 8px;">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
     </a>
-    <a href="https://reactnative.dev/">
-        <img 
-            src="assets/icon-react-native.svg"
-            alt="logo React native"
-            width="50px"
-            style="border-radius: 8px;">
+    <a href="https://getbootstrap.com/">
+    <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </a>
-    <a href="https://nodejs.org/en/">
-        <img 
-            src="assets/icon-nodejs.svg" 
-            alt="logo Node.js"
-            width="50px"
-            style="border-radius: 8px;">
+    <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">
+    <img alt="SqlServer" src="https://img.shields.io/badge/SQLServer-00000F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
     </a>
-    <a href="https://dev.mysql.com/doc/">
-        <img 
-            src="assets/icon-mysql.svg" 
-            alt="logo Mysql"
-            width="80px"
-            style="border-radius: 8px;">
+    <a href="https://www.linuxfoundation.org/">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     </a>
-    <a href="https://www.postgresql.org/">
-        <img 
-            src="assets/icon-postgresql.svg" 
-            alt="logo postgreSQL"
-            width="50px">
+    <a href="https://www.gnu.org/software/bash/">
+    <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     </a>
-    </p>
+    <a href="https://git-scm.com/">
+    <img alt="Git" src="https://img.shields.io/badge/Git-E95420?style=for-the-badge&logo=git&logoColor=white"/>
+    </a>
+    <a href="https://github.com/">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
 </p>
 
 ---
-#### 🚧 What I'm looking for
-- Looking for a job as an information security analyst and Frontend or Backend developer;
-- Collaborate in a project;
-- Freelance projects;
-- To join a Hackaton team to improve my basic skills;
-- To grow with the support of the community.
-
-
-
-
----
-#### 💬 Languages(Learning)
-
-- English - Intermediate;
-- Portuguese - Native.
-
----
-#### ⚡ Hobbies
+<h2 align='left'>✨ #Hobbies:</h2>
 
 - 📚 Fantasy books;
 - 🎮 Games;
