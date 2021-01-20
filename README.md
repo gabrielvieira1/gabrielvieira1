@@ -2,7 +2,7 @@
 <p align="center" color="grey" size="14px">Welcome to my GitHub! :octocat:</p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/bielvieira/">
+    <a rel="noreferrer" href="https://www.linkedin.com/in/bielvieira/" target="_blank">
         <img 
             alt="Gabriel Vieira" 
             src="https://img.shields.io/badge/-Gabriel%20Vieira-%230077b5?style=flat-square&logo=linkedin">
