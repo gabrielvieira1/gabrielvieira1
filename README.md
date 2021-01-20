@@ -17,6 +17,12 @@
             alt="Twitter Gabriel Vieira" 
             src="https://img.shields.io/twitter/follow/bielvieir4?label=Seguir&style=social">
     </a>
+    <a href="https://www.instagram.com/bielvieir4/">
+        <img
+            width="84"
+            alt="Intagram Gabriel Vieia" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
 </p>
 
 <h2 align='left'>👨🏻‍💻 #About me:</h2>
@@ -75,17 +81,26 @@
     <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">
     <img alt="SqlServer" src="https://img.shields.io/badge/SQLServer-00000F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
     </a>
+    <a href="https://git-scm.com/">
+    <img alt="Git" src="https://img.shields.io/badge/Git-E95420?style=for-the-badge&logo=git&logoColor=white"/>
+    </a>
+    <a href="https://github.com/">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     <a href="https://www.linuxfoundation.org/">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     </a>
     <a href="https://www.gnu.org/software/bash/">
     <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     </a>
-    <a href="https://git-scm.com/">
-    <img alt="Git" src="https://img.shields.io/badge/Git-E95420?style=for-the-badge&logo=git&logoColor=white"/>
     </a>
-    <a href="https://github.com/">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <a href="https://www.hackthebox.eu/">
+    <img alt="Hack The Box" src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black"/>
+    </a>
+    <a href="https://tryhackme.com/">
+    <img alt="Try Hack Me" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+    </a>
+    <a href="https://hackaday.com/">
+    <img alt="Hacka Day" src="https://img.shields.io/badge/Hackaday-1A1A1A?style=for-the-badge&logo=hackaday&logoColor=white"/>
     </a>
 </p>
 
