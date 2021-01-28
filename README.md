@@ -29,7 +29,6 @@
 </p>
 
 <h2 align='left'>👨🏻‍💻 #About me:</h2>
-</br>
 <p align='left' color="grey" font-size="20px">I'm Gabriel Vieira 👨‍🚀, <br/>Beginner backend Developer 💻 <br/> and I love helping people through technology! ❤️.</p>
 <p>
 
@@ -38,7 +37,6 @@
 <p>
     <h2 align="left"><img  alt="skills"  width="40" height="40" style="margin-right:10px;float:left;" src="assets/skill.svg"></img>#My Skills: </h2>
 </p>
-</br>
 <p align="center">
     <a href="https://docs.oracle.com/en/java/">
     <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -110,7 +108,6 @@
 
 ---
 <h2 align='left'>✨ #Hobbies:</h2>
-</br>
 
 - 📚 Fantasy books;
 - 🎮 Games;
@@ -121,18 +118,14 @@
 
 ---
 
-<p>
-    <h2 align="rigth"><img  alt="analytics"  width="30" height="30" style="margin-right:10px;float:left;" src="assets/analytics.png"></img>#Statistics: </h2>
-</p>
+<h2 align="left"><img src="assets/startup.svg" alt="analytics"  width="30" height="30" style="margin-right:10px;float:left;"></img>#Statistics: </h2>
 
-</br>
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvieira1&layout=compact&count_private=true)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=gabrielvieira1&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gabrielvieira1&hide_border=true)
-</br>
 
 ---
 
