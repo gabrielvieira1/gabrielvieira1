@@ -3,7 +3,7 @@
 
 <p align="center">
     <a>
-        <img width="84" alt="Visitors" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gabrielvieira1&repo=gabrielvieira1&countColorcountColor"/>
+        <img width="91" alt="Visitors" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gabrielvieira1&repo=gabrielvieira1&countColorcountColor"/>
     </a>
     <a href="https://www.linkedin.com/in/bielvieira/">
         <img 
@@ -122,8 +122,9 @@
 ---
 
 <p>
-    <h2 align="rigth"><img  alt="analytics"  width="30" height="40" style="margin-right:10px;float:left;" src="assets/analytics.svg"></img>#Statistics: </h2>
+    <h2 align="rigth"><img  alt="analytics"  width="30" height="30" style="margin-right:10px;float:left;" src="assets/analytics.png"></img>#Statistics: </h2>
 </p>
+
 </br>
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvieira1&layout=compact&count_private=true)
