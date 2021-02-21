@@ -1,5 +1,8 @@
-<h1 color="black" align="center"> #Hi Stranger :alien:🖖 </h1>
-<p align="center" color="grey" size="14px">Welcome to my GitHub! :octocat:</p>
+<img 
+    alt="Gabriel Vieira" 
+    src="assets/banner.svg">
+
+<p align="center" color="grey" size="14px" style="color:#92E3A9" >#Hi Stranger :alien:🖖 Welcome to my GitHub! :octocat: :hackerman: </p>
 
 <p align="center">
     <a>
@@ -15,6 +18,12 @@
             alt="gmail Gabriel Vieia" 
             src="https://img.shields.io/badge/Gmail-%23c14438?style=flat-square&logo=gmail&logoColor=white">
     </a>
+    <a href="mailto:gabrielvieira1@protonmail.com">
+        <img
+            width="84"
+            alt="Protonmail Gabriel Vieia" 
+            src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+    </a>
     <a href="https://twitter.com/bielvieir4">
         <img 
             alt="Twitter Gabriel Vieira" 
@@ -26,16 +35,22 @@
             alt="Intagram Gabriel Vieia" 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
+    <a href="https://music.youtube.com/playlist?list=PLQ0K48ybt7ObINf2TfCfxWydZZIws-vuy">
+        <img
+            width="100"
+            alt="Youtube music" 
+            src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
+    </a>
 </p>
 
-<h2 align='left'>👨🏻‍💻 #About me:</h2>
-<p align='left' color="grey" font-size="20px">I'm Gabriel Vieira 👨‍🚀, <br/>Beginner backend Developer 💻 <br/> and I love helping people through technology! ❤️.</p>
+<h2 align='left' style="color:#92E3A9" >👨🏻‍💻 #About me:</h2>
+<p align='left' color="grey" font-size="20px" style="color:#92E3A9" >I'm Gabriel Vieira 👨‍🚀 <br/>Beginner backend Developer 💻 <br/> and I love helping people through technology! ❤️</p>
 <p>
 
 ---
 
 <p>
-    <h2 align="left"><img  alt="skills"  width="40" height="40" style="margin-right:10px;float:left;" src="assets/skill.svg"></img>#My Skills: </h2>
+    <h2 align="left" style="color:#92E3A9" ><img  alt="skills"  width="40" height="40" style="margin-right:10px;float:left;" src="assets/skill.svg"></img>#My Skills: </h2>
 </p>
 <p align="center">
     <a href="https://docs.oracle.com/en/java/">
@@ -107,25 +122,29 @@
 </p>
 
 ---
-<h2 align='left'>✨ #Hobbies:</h2>
-
+<h2 align='left' style="color:#92E3A9" >✨ #Hobbies:</h2>
+<p style="color:#92E3A9" >
 - 📚 Fantasy books;
-- 🎮 Games;
-- 🏃‍♂️ Running;
-- 🎧 Listening to good music;
-- 🎬 Watch Movies and TV Shows;
-- 🧟 Turning nights studying
-
+<br/> - 🎮 Games;
+<br/> - 🏃‍♂️ Running;
+<br/> - 🎧 Listening to good music;
+<br/> - 🧟 Turning nights studying
+</p>
 ---
 
-<h2 align="left"><img src="assets/startup.svg" alt="analytics"  width="30" height="30" style="margin-right:10px;float:left;"></img>#Statistics: </h2>
+<h2 align="left" style="color:#92E3A9" ><img src="assets/startup.svg" alt="analytics"  width="30" height="30" style="margin-right:10px;float:left;"></img>#Statistics: </h2>
+
+<center>
+<table>
+<tr>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/?username=gabrielvieira1&count_private=true&show_icons=true&theme=dark&text_color=92E3A9&title_color=92E3A9"/></td>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvieira1&layout=compact&count_private=true&theme=dark&title_color=92E3A9"/></td>
+<tr>
+</table>
+</center>
 
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvieira1&layout=compact&count_private=true)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=gabrielvieira1&count_private=true&show_icons=true)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=gabrielvieira1&hide_border=true)
 
 ---
 
