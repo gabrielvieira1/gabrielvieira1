@@ -53,6 +53,12 @@
             alt="Youtube music" 
             src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
     </a>
+    <a href="https://open.spotify.com/user/gabrielvieira4102">
+        <img
+            width="75"
+            alt="Youtube music" 
+            src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+    </a>
 </p>
 
 <h2 align='left' style="color:#92E3A9" >👨🏻‍💻 #About me:</h2>
