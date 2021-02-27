@@ -36,11 +36,6 @@
             alt="Dev.To Gabriel Vieia" 
             src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
     </a>
-    <a href="https://twitter.com/bielvieir4">
-        <img 
-            alt="Twitter Gabriel Vieira" 
-            src="https://img.shields.io/twitter/follow/bielvieir4?label=Seguir&style=social">
-    </a>
     <a href="https://www.instagram.com/bielvieir4/">
         <img
             width="84"
