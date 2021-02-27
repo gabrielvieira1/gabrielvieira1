@@ -18,11 +18,23 @@
             alt="gmail Gabriel Vieia" 
             src="https://img.shields.io/badge/Gmail-%23c14438?style=flat-square&logo=gmail&logoColor=white">
     </a>
-    <a href="mailto:gabrielvieira1@protonmail.com">
+    <a href="https://gabriel-vieira.medium.com/">
         <img
-            width="84"
-            alt="Protonmail Gabriel Vieia" 
-            src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+            width="82"
+            alt="Medium Gabriel Vieia" 
+            src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+    </a>
+    <a href="https://hashnode.com/@gabrielvieira">
+        <img
+            width="89"
+            alt="Hashnode Gabriel Vieia" 
+            src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
+    </a>
+    <a href="https://dev.to/bielvieir4">
+        <img
+            width="80"
+            alt="Dev.To Gabriel Vieia" 
+            src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
     </a>
     <a href="https://twitter.com/bielvieir4">
         <img 
