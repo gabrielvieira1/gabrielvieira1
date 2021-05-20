@@ -5,22 +5,23 @@
 <p align="center" color="grey" size="14px" style="color:#92E3A9" >#Hi Stranger :alien:🖖 Welcome to my GitHub! :octocat: :hackerman: </p>
 
 <p align="center">
-    <a>
-        <img width="91" alt="Visitors" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gabrielvieira1&repo=gabrielvieira1&countColorcountColor"/>
-    </a>
     <a href="https://www.linkedin.com/in/bielvieira/">
         <img 
+            height="22px"
             alt="Gabriel Vieira" 
             src="https://img.shields.io/badge/-Gabriel%20Vieira-%230077b5?style=flat-square&logo=linkedin">
     </a>
-    <a href="mailto:gabrielvieira4102@gmail.com">
-        <img 
-            alt="gmail Gabriel Vieia" 
-            src="https://img.shields.io/badge/Gmail-%23c14438?style=flat-square&logo=gmail&logoColor=white">
+    <a href="https://stackoverflow.com/story/bielvieira">
+        <img
+            width="100"
+            height="22px"
+            alt="Youtube music" 
+            src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
     </a>
     <a href="https://gabriel-vieira.medium.com/">
         <img
             width="82"
+            height="23px"
             alt="Medium Gabriel Vieia" 
             src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
     </a>
@@ -33,26 +34,25 @@
     <a href="https://dev.to/bielvieir4">
         <img
             width="80"
+            height="23px"
             alt="Dev.To Gabriel Vieia" 
-            src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+            src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white">
     </a>
     <a href="https://www.instagram.com/bielvieir4/">
         <img
             width="84"
+            height="21px"
             alt="Intagram Gabriel Vieia" 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href="https://music.youtube.com/playlist?list=PLQ0K48ybt7ObINf2TfCfxWydZZIws-vuy">
-        <img
-            width="100"
-            alt="Youtube music" 
-            src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
     </a>
     <a href="https://open.spotify.com/user/gabrielvieira4102">
         <img
             width="75"
             alt="Youtube music" 
             src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+    </a>
+    <a>
+        <img width="91" height="22px" alt="Visitors" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gabrielvieira1&repo=gabrielvieira1&countColorcountColor"/>
     </a>
 </p>
 
