@@ -60,6 +60,8 @@
 <p align='left' color="grey" font-size="20px" style="color:#92E3A9" >I'm Gabriel Vieira 👨‍🚀 <br/>Beginner backend Developer 💻 <br/> and I love helping people through technology! ❤️</p>
 <p>
 
+![Snake animation](assets/github-user-contribution.svg)
+
 ---
 
 <p>
