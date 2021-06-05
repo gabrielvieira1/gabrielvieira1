@@ -35,7 +35,7 @@
         <img
             width="80"
             height="23px"
-            alt="Dev.To Gabriel Vieia" 
+            alt="Dev.ToGabriel Vieia" 
             src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white">
     </a>
     <a href="https://www.instagram.com/bielvieir4/">
