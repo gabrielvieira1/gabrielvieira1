@@ -60,7 +60,7 @@
 <p align='left' color="grey" font-size="20px" style="color:#92E3A9" >I'm Gabriel Vieira 👨‍🚀 <br/>Beginner backend Developer 💻 <br/> and I love helping people through technology! ❤️</p>
 <p>
 
-![Snake animation](assets/github-user-contribution.svg)
+![Snake animation](https://github.com/gabrielvieira1/gabrielvieira1/assets/github-user-contribution.svg)
 
 ---
 
@@ -152,8 +152,8 @@
 <center>
 <table>
 <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/?username=gabrielvieira1&count_private=true&show_icons=true&theme=dark&text_color=92E3A9&title_color=92E3A9"/></td>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvieira1&layout=compact&count_private=true&theme=dark&title_color=92E3A9"/></td>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielvieira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvieira1&layout=compact&langs_count=16&theme=dracula"/></td>
 <tr>
 </table>
 </center>
