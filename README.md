@@ -1,8 +1,11 @@
-<img 
-    alt="Gabriel Vieira" 
-    src="assets/banner.svg">
+<img src="https://raw.githubusercontent.com/hargun79/hargun79/master/Assets/hi.gif" style="width: 200px; display: block; margin-left:auto; margin-right:auto;">
 
-<p align="center" color="grey" size="14px" style="color:#92E3A9" >#Hi Stranger :alien:🖖 Welcome to my GitHub! :octocat: :hackerman: </p>
+<div style="display:flex; justify-content:center; margin: 10px;">
+
+<p align="center" color="grey" size="14px" style=" margin-top: 20px" >#Hi Stranger :alien:🖖 Welcome to my GitHub!</p>
+<img style="width: 90px;  margin-left: 10px;" src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg">
+</div>
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/bielvieira/">
@@ -56,17 +59,18 @@
     </a>
 </p>
 
-<h2 align='left' style="color:#92E3A9" >👨🏻‍💻 #About me:</h2>
-<p align='left' color="grey" font-size="20px" style="color:#92E3A9" >I'm Gabriel Vieira 👨‍🚀 <br/>Beginner backend Developer 💻 <br/> and I love helping people through technology! ❤️</p>
-<p>
+# <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
+
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="30px" /> I'm some sort of a full-stack developer? If this description makes me a full-stack developer.
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
+
 
 ![Snake animation](assets/github-user-contribution.svg)
 
----
 
-<p>
-    <h2 align="left" style="color:#92E3A9" ><img  alt="skills"  width="40" height="40" style="margin-right:10px;float:left;" src="assets/skill.svg"></img>#My Skills: </h2>
-</p>
+# <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="60px" /> My Skills
+
 <p align="center">
     <a href="https://docs.oracle.com/en/java/">
     <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -136,24 +140,20 @@
     </a>
 </p>
 
----
-<h2 align='left' style="color:#92E3A9" >✨ #Hobbies:</h2>
-<p style="color:#92E3A9" >
-- 📚 Fantasy books;
-<br/> - 🎮 Games;
+# <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> Hobbies
+<p > - 🎮 I like gaming but I never know which games I wanna play and never play a game for long!;
 <br/> - 🏃‍♂️ Running;
 <br/> - 🎧 Listening to good music;
 <br/> - 🧟 Turning nights studying
 </p>
----
 
-<h2 align="left" style="color:#92E3A9" ><img src="assets/startup.svg" alt="analytics"  width="30" height="30" style="margin-right:10px;float:left;"></img>#Statistics: </h2>
+# <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> Statistics
 
 <center>
 <table>
 <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielvieira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvieira1&layout=compact&langs_count=16&theme=dracula"/></td>
+    <td><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielvieira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
+    <td><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvieira1&layout=compact&langs_count=16&theme=dracula"/></td>
 <tr>
 </table>
 </center>
