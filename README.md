@@ -1,13 +1,8 @@
-<div style="width: 100px; height:50px; display: block; margin-left:auto; margin-right:auto;">
-<img src="assets/hi.gif">
+<div align="center">
+<img style="width: 50px;" src="assets/hi.gif">
 </div>
 
-<div style="display:flex; justify-content:center; margin: 10px;">
-
-<p align="center" color="grey" size="14px" style=" margin-top: 20px" >#Hi Stranger :alien:🖖 Welcome to my GitHub!</p>
-<img style="width: 50px;  margin-left: 10px;" src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg">
-</div>
-
+---
 
 <p align="center">
     <a href="https://www.linkedin.com/in/bielvieira/">
@@ -151,18 +146,8 @@
 
 # <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> Statistics
 
-<center>
-<table>
-<tr>
-    <td><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielvieira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></td>
-    <td><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvieira1&layout=compact&langs_count=16&theme=dracula"/></td>
-<tr>
-</table>
-</center>
-
-
-
-
----
-
-> *"Para pessoas como nós não existem coisas como modelos. Somos convocados constantemente a criar nossos modelos."* - Ousmane Sembene
+ <div>
+  <a href="https://github.com/gabrielvieira1">
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielvieira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvieira1&layout=compact&langs_count=16&theme=dracula"/>
+</div>
