@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hargun79/hargun79/master/Assets/hi.gif" style="width: 50px; display: block; margin-left:auto; margin-right:auto;">
+<img src="assets/hi.gif" style="width: 100px; display: block; margin-left:auto; margin-right:auto;">
 
 <div style="display:flex; justify-content:center; margin: 10px;">
 
