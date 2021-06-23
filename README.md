@@ -1,4 +1,6 @@
-<img src="assets/hi.gif" style="width: 100px; display: block; margin-left:auto; margin-right:auto;">
+<div style="width: 100px; height:50px; display: block; margin-left:auto; margin-right:auto;">
+<img src="assets/hi.gif">
+</div>
 
 <div style="display:flex; justify-content:center; margin: 10px;">
 
