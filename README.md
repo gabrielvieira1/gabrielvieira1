@@ -52,7 +52,7 @@
             src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
     </a>
     <a>
-        <img width="91" height="22px" alt="Visitors" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gabrielvieira1&repo=gabrielvieira1&countColorcountColor"/>
+        <img width="80" height="22px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=gabrielvieira1.gabrielvieira1"/>
     </a>
 </p>
 
