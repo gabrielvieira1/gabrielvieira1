@@ -1,8 +1,4 @@
-<div align="center">
-<img style="width: 50px;" src="assets/hi.gif">
-</div>
-
----
+# <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" style="margin-left: auto;"/> Hello!
 
 <p align="center">
     <a href="https://www.linkedin.com/in/bielvieira/">
@@ -56,7 +52,7 @@
     </a>
 </p>
 
-# <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
+---
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="30px" /> I'm some sort of a full-stack developer? If this description makes me a full-stack developer.
 
