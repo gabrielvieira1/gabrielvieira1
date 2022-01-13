@@ -65,12 +65,6 @@
 # <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="60px" /> My Skills
 
 <p align="center">
-    <a href="https://docs.oracle.com/en/java/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-    </a>
-    <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/">
-    <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-    </a>
     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
     <img alt="CSharp" src="https://img.shields.io/badge/CSharp-4F0599?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     </a>
@@ -82,6 +76,12 @@
     </a>
     <a href="https://www.djangoproject.com/">
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+    </a>
+    <a href="https://docs.oracle.com/en/java/">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    </a>
+    <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/">
+    <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     </a>
     <a href="https://www.ruby-lang.org/pt/">
     <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
