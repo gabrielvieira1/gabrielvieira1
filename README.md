@@ -54,8 +54,6 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="30px" /> I'm some sort of a full-stack developer? If this description makes me a full-stack developer.
-
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
 
 
@@ -136,6 +134,7 @@
 # <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> Hobbies
 <p > - 🎮 I like gaming but I never know which games I wanna play and never play a game for long!;
 <br/> - 🏃‍♂️ Running;
+<br/> - 🏊‍♂️ Swimming;
 <br/> - 🎧 Listening to good music;
 <br/> - 🧟 Turning nights studying
 </p>
