@@ -44,11 +44,8 @@
     <a href="https://open.spotify.com/user/gabrielvieira4102">
         <img
             width="75"
-            alt="Youtube music" 
+            alt="Spotify" 
             src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-    </a>
-    <a>
-        <img width="80" height="22px" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=gabrielvieira1.gabrielvieira1"/>
     </a>
 </p>
 
@@ -63,6 +60,12 @@
 # <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="60px" /> My Skills
 
 <p align="center">
+    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    </a>
+    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    </a>
     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
     <img alt="CSharp" src="https://img.shields.io/badge/CSharp-4F0599?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     </a>
@@ -106,15 +109,22 @@
     <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </a>
     <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">
+    <img alt="Aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    </a>
+    <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">
+    <img alt="Azure" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+    </a>
+    <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">
     <img alt="SqlServer" src="https://img.shields.io/badge/SQLServer-00000F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
     </a>
     <a href="https://git-scm.com/">
     <img alt="Git" src="https://img.shields.io/badge/Git-E95420?style=for-the-badge&logo=git&logoColor=white"/>
     </a>
-    <a href="https://github.com/">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     <a href="https://www.linuxfoundation.org/">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    </a>
+    <a href="https://www.gnu.org/software/bash/">
+    <img alt="Owasp" src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
     </a>
     <a href="https://www.gnu.org/software/bash/">
     <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
