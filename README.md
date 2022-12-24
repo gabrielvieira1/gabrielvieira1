@@ -61,6 +61,9 @@
 
 <p align="center">
     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+    </a>
+    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     </a>
     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
