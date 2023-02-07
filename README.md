@@ -1,56 +1,5 @@
 # <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" style="margin-left: auto;"/> Hello!
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/bielvieira/">
-        <img 
-            height="22px"
-            alt="Gabriel Vieira" 
-            src="https://img.shields.io/badge/-Gabriel%20Vieira-%230077b5?style=flat-square&logo=linkedin">
-    </a>
-    <a href="https://stackoverflow.com/story/bielvieira">
-        <img
-            width="100"
-            height="22px"
-            alt="Youtube music" 
-            src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-    </a>
-    <a href="https://gabriel-vieira.medium.com/">
-        <img
-            width="82"
-            height="23px"
-            alt="Medium Gabriel Vieia" 
-            src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-    </a>
-    <a href="https://hashnode.com/@gabrielvieira">
-        <img
-            width="89"
-            alt="Hashnode Gabriel Vieia" 
-            src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
-    </a>
-    <a href="https://dev.to/bielvieir4">
-        <img
-            width="80"
-            height="23px"
-            alt="Dev.ToGabriel Vieia" 
-            src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white">
-    </a>
-    <a href="https://www.instagram.com/bielvieir4/">
-        <img
-            width="84"
-            height="21px"
-            alt="Intagram Gabriel Vieia" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href="https://open.spotify.com/user/gabrielvieira4102">
-        <img
-            width="75"
-            alt="Spotify" 
-            src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-    </a>
-</p>
-
----
-
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
 
 
@@ -136,7 +85,7 @@
     <a href="https://www.hackthebox.eu/">
     <img alt="Hack The Box" src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black"/>
     </a>
-    <a href="https://tryhackme.com/">
+    <a href="https://tryhackme.com/p/bielvieira">
     <img alt="Try Hack Me" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
     </a>
     <a href="https://hackaday.com/">
