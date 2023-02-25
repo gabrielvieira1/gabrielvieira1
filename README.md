@@ -21,6 +21,9 @@
     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
     <img alt="CSharp" src="https://img.shields.io/badge/CSharp-4F0599?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     </a>
+    <a href="https://dotnet.microsoft.com/pt-br/">
+    <img alt="DOTNET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+    </a>
     <a href="https://dotnet.microsoft.com/apps/aspnet">
     <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-0082c9?style=for-the-badge&logo=.net&logoColor=white"/>
     </a>
