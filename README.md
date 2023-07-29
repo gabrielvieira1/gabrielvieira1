@@ -3,7 +3,7 @@
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)
 
 
-![Snake animation](https://github.com/gabrielvieira1/gabrielvieira1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabrielvieira1/gabrielvieira1/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 
 # <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="60px" /> My Skills
