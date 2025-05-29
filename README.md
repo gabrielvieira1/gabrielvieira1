@@ -2,9 +2,13 @@
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>AppSec by passion, hacker by culture, learning and teaching while turning coffee into code. If you want to say hello, I'll be happy to get to know you better!</b> :)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielvieira1/gabrielvieira1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielvieira1/gabrielvieira1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabrielvieira1/gabrielvieira1/output/pacman-contribution-graph.svg">
+</picture>
 
-![Snake animation](https://github.com/gabrielvieira1/gabrielvieira1/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 # <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="60px" /> My Skills
 
@@ -110,18 +114,10 @@
 <br/> - 🧟 Turning nights studying
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielvieira1/gabrielvieira1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielvieira1/gabrielvieira1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabrielvieira1/gabrielvieira1/output/pacman-contribution-graph.svg">
-</picture>
+# <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> My Badges
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
-# <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> Statistics
-
- <div>
-  <a href="https://github.com/gabrielvieira1">
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielvieira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvieira1&layout=compact&langs_count=10&theme=dracula"/>
+<div>
+<a href="https://www.credly.com/badges/c16df3c7-1d65-4b5d-875e-dead2368556e" target="_blank"><img src="https://github.com/user-attachments/assets/da55f610-1fc3-40a6-bdb2-8075f4ce281e" height="100px" /></a>
+<a href="https://www.credly.com/badges/1ce6dee9-093c-4006-8c38-8ae1e31ec3a8" target="_blank"><img src="https://github.com/user-attachments/assets/5847af9c-ba3d-400d-a151-827ede29d969" height="100px" /></a>
+<a href="https://www.credly.com/badges/1ce6dee9-093c-4006-8c38-8ae1e31ec3a8" target="_blank"><img src="https://github.com/user-attachments/assets/69f62c77-7e2b-4a88-9910-95bf6a42e23b" height="100px" /></a>
 </div>
